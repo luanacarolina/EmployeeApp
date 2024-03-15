@@ -1,0 +1,12 @@
+/Users/luanacarolina/Projects/EmployeeApp/Testes/bin/Debug/net6.0/Testes.deps.json
+/Users/luanacarolina/Projects/EmployeeApp/Testes/bin/Debug/net6.0/Testes.dll
+/Users/luanacarolina/Projects/EmployeeApp/Testes/bin/Debug/net6.0/Testes.pdb
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.csproj.AssemblyReference.cache
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.AssemblyInfoInputs.cache
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.AssemblyInfo.cs
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.csproj.CoreCompileInputs.cache
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.dll
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/refint/Testes.dll
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/Testes.pdb
+/Users/luanacarolina/Projects/EmployeeApp/Testes/obj/Debug/net6.0/ref/Testes.dll
